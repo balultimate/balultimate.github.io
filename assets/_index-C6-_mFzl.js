@@ -1,0 +1,1 @@
+import{a as t}from"./with-props-BMXddTBD.js";import{n}from"./chunk-AYJ5UCUI-LrCHA5aW.js";function i({}){return[{title:"Балтийская любительская лига Алтимата"},{name:"description",content:"Балтийская любительская лига Алтимата"}]}const s=t(function(){return n.jsx("h1",{children:"Dashboard"})});export{s as default,i as meta};

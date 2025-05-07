@@ -1,0 +1,1 @@
+import{a as t}from"./with-props-BMXddTBD.js";import{n}from"./chunk-AYJ5UCUI-LrCHA5aW.js";function s({}){return[{title:"Игры"},{name:"description",content:"Список игры тура"}]}const i=t(function(){return n.jsx("p",{children:"Это игры тура"})});export{i as default,s as meta};

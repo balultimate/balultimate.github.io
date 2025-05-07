@@ -1,0 +1,1 @@
+import{a as t}from"./with-props-BMXddTBD.js";import{n}from"./chunk-AYJ5UCUI-LrCHA5aW.js";function s({}){return[{title:"Туры"},{name:"description",content:"Список туров"}]}const i=t(function(){return n.jsx("p",{children:"Список туров турнира"})});export{i as default,s as meta};
